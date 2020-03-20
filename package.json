@@ -1,0 +1,22 @@
+{
+  "name": "update-css-with-js",
+  "version": "1.0.0",
+  "description": "Update CSS variables with JavaScript",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bikkimahato/Update-CSS-with-JS.git"
+  },
+  "author": "Bikki Mahato",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bikkimahato/Update-CSS-with-JS/issues"
+  },
+  "homepage": "https://github.com/bikkimahato/Update-CSS-with-JS#readme",
+  "dependencies": {
+    "gh-pages": "^2.2.0"
+  }
+}
